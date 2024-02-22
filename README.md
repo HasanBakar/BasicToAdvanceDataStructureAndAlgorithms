@@ -2,7 +2,7 @@
 
 # Data Structures
 
-1. [Arrays](./Data%20Structure/Arrays.md)
+1. [Arrays](./Data%20Structure/Array/Arrays.md)
 2. Linked Lists
 3. Stacks
 4. Queues

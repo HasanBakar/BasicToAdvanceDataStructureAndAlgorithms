@@ -13,6 +13,13 @@
 #### alternative definition of array
 - An array is a fundamental data structure that stores a fixed-size sequential collection of elements of the same type. It is one of the simplest and most commonly used data structures.
 
+## Characteristics of Array
+1. Fixed Size: The size of an array is defined at the time of creation and cannot be changed.
+2. Homogeneous Elements: All elements in an array are of the same data type (e.g., all integers, all characters, etc.).
+3. Sequential Storage: Elements are stored in contiguous memory locations.
+4. Indexing: Each element in the array can be accessed using an index, which usually starts from 0.
+
+
 
 - Basic terminologies of array
   a. Array Index: In an array, elements are identified by their indexes. Array index starts from 0.

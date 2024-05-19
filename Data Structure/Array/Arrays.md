@@ -19,6 +19,14 @@
 3. Sequential Storage: Elements are stored in contiguous memory locations.
 4. Indexing: Each element in the array can be accessed using an index, which usually starts from 0.
 
+### Advantages
+1. Fast Access: Direct access to any element using its index allows for O(1) time complexity for read and write operations.
+2. Memory Efficient: Arrays have a compact memory layout, making them efficient in terms of memory usage.
+### Disadvantages
+1. Fixed Size: Once the size of an array is set, it cannot be changed, making it less flexible if the number of elements needs to change dynamically.
+2. Insertion/Deletion: Inserting or deleting elements, especially in the middle, can be costly as it may require shifting elements.
+
+
 
 
 - Basic terminologies of array

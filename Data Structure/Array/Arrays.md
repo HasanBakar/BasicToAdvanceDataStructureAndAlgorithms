@@ -10,6 +10,9 @@
 - An array data structure is a fundamental concept in computer science that stores a collection of elements in a contiguous block of memory. It allows for efficient access to elements using indices and is widely used in programming for organizing and manipulating data.
 
 - In other words: An array is a collection of items of same data type stored at contiguous memory locations.
+#### alternative definition of array
+- An array is a fundamental data structure that stores a fixed-size sequential collection of elements of the same type. It is one of the simplest and most commonly used data structures.
+
 
 - Basic terminologies of array
   a. Array Index: In an array, elements are identified by their indexes. Array index starts from 0.

@@ -1,6 +1,7 @@
 ## Array Introduction:
 
-1. [Introduction](#arrayIntro)
+1. [Introduction](#arrayIntro)    
+    - [some basic warm up questions](#basicWarmUp)
 2. [Implementation in different languages]()
 3. [Basic Operations]()
 4. [Standard problem on Array](#arrayProblemSolving)
@@ -36,6 +37,32 @@
 
 <div align="center">
   <img height="350" width="650" src="./array.JPG"  />
+</div>
+
+<div id="basicWarmUp">
+
+## some basic warm up questions
+1. Find the largest element in an array.
+2. Find the second largest element in an array.
+3. Find the smallest element in an array.
+4. Find the second smallest element in an array.
+5.  Reverse an array.
+6. Check if an array is sorted.
+7. Remove duplicates from an array.
+8. Rotate an array by k positions.
+9. Find the sum of all elements in an array.
+10. Find the average of all elements in an array.
+11. Find the maximum difference between two elements such that the larger element comes after the smaller one.
+12. Merge two sorted arrays.
+13. Find the intersection of two arrays.
+14. Find the union of two arrays.
+15. Find the missing number in an array of 1 to n.
+16. Find the pair of elements that sum to a given value.
+17. Move all zeros to the end of an array.
+18.  Find the contiguous subarray with the maximum sum (Kadane’s Algorithm).
+19. Find the length of the longest subarray with a given sum.
+20. Find the longest increasing subsequence in an array.
+
 </div>
 
 <div id="arrayProblemSolving">
